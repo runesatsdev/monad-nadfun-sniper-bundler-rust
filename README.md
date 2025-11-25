@@ -1,6 +1,6 @@
 # ⚡ Monad Nad.fun Sniper & Bundler Suite
 
-A high-performance trading automation system I developed for the Monad ecosystem, featuring sniping capabilities, volume generation, multi-wallet bundling, and copy trading automation.
+Welcome to Nad.fun, the ultimate Monad trading suite designed for crypto enthusiasts and professional operators. This repository features a high-speed sniper bot, advanced multi-wallet bundler, and automated trading tools for executing precise strategies across the Monad ecosystem. Built for performance, reliability, and ease of deployment on GitHub, the Nad.fun suite empowers users to streamline their trading workflow, monitor signals, and automate complex trading operations. Whether you're interested in crypto trading, bot automation, or sniping new token launches, Nad.fun provides a modular, efficient, and production-ready solution.
 
 ## 🌐 About This Project
 This is my personal implementation of a professional-grade trading bot suite optimized for Monad's low-latency EVM environment. The system executes trades in sub-second timeframes and orchestrates complex multi-wallet strategies with precision.
